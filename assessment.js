@@ -73,7 +73,8 @@ const answers = [
 '{userName}のいいところは全てです。{userName}の全てがいいです。',
 '{userName}のいいところはお金です。{userName}はお金を沢山持っています。',
 '{userName}のいいところは顔です。{userName}の顔がいいです。',
-'{userName}のいいところはないです。{userName}のいいところはありません。'
+'{userName}のいいところはないです。{userName}のいいところはありません。',
+'{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。'
 ];
 /**
  * 名前の文字列を渡すと診断結果を返す関数
